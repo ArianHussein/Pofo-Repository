@@ -1,0 +1,19 @@
+.btn{
+    position: absolute;
+    left: 1430px;
+    color: white;
+    background-color: #8880C6;
+}
+
+.btn, a{
+    color: black;
+  }
+
+  .dropdown-menu{
+    background-color: #8880C6;
+}
+
+.btn:hover{
+    background-color: #2F2B23;
+    color: #F5F5F5;
+}

@@ -1,0 +1,149 @@
+body{
+    background-image: url(../img/black-background-wood-wallpaper.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.btn{
+    position: absolute;
+    left: 1430px;
+    color: white;
+    background-color: #8880C6;
+}
+
+.btn, a{
+  color: black;
+}
+
+.dropdown-menu{
+    background-color: #8880C6;
+}
+
+
+.column {
+
+  position: absolute;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border: 1px solid white;
+    top: 320px;
+    left: 500px;
+}
+
+.column1 {
+
+    position: absolute;
+      border-radius: 50%;
+      width: 100px;
+      height: 100px;
+      border: 1px solid white;
+      top: 320px;
+      left: 850px;
+  }
+
+  .column3 {
+
+    position: absolute;
+      border-radius: 50%;
+      width: 100px;
+      height: 100px;
+      border: 1px solid white;
+      top: 320px;
+      left: 1200px;
+  }
+
+  .column4 {
+
+    position: absolute;
+      border-radius: 50%;
+      width: 100px;
+      height: 100px;
+      border: 1px solid white;
+      top: 420px;
+      left: 1400px;
+  }
+
+  .column5 {
+
+    position: absolute;
+      border-radius: 50%;
+      width: 100px;
+      height: 100px;
+      border: 1px solid white;
+      top: 620px;
+      left: 850px;
+  }
+
+  .column6 {
+
+    position: absolute;
+      border-radius: 50%;
+      width: 100px;
+      height: 100px;
+      border: 1px solid white;
+      top: 620px;
+      left: 1200px;
+  }
+
+  
+
+
+.row {
+display: flex;
+}
+
+
+.textabout{
+    color: white;
+    text-align: center;
+    margin: auto;
+    font-weight: 1000px;
+    font-style: italic;
+    position: absolute;
+    bottom: 350px;
+    left: 250px;
+}
+
+.Discord{
+    display: block;
+    position: absolute;
+    top: 150px;
+    height: 200px;
+    width: 200px;
+    left: 1150px;
+    margin-top: 210px;
+   justify-content: center;
+}
+
+
+.Instagram{
+    display: block;
+     position: absolute;
+     top: 150px;
+     height: 200px;
+     width: 200px;
+     left: 500px;
+     margin-top: 210px;
+    justify-content: center;
+
+
+}
+
+.Twitter{
+    display: block;
+     position: absolute;
+     top: 150px;
+     height: 200px;
+     width: 200px;
+     left: 830px;
+     margin-top: 210px;
+    justify-content: center;
+}
+
+
+.btn:hover{
+    background-color: #2F2B23;
+    color: #F5F5F5;
+}

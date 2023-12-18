@@ -1,0 +1,19 @@
+body{
+    background-image: url(../img/black-background-wood-wallpaper.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.column {
+
+        background: lightblue;
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+
+  }
+
+  .row {
+    display: flex;
+  }
